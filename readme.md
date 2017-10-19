@@ -1,7 +1,7 @@
 # Proyecto MemoramaZ
 
 Este proyecto fue desarrollado con fines educativos, bajo ninguna licencia, sin motivo o fines de lucro.
-Con la colaboracion y participación de Marcela Peraza y Jose Salinas.
+Con la colaboracion y participación de **Marcela Peraza** y **Jose Salinas**.
 
 ## Uso del binario
 
